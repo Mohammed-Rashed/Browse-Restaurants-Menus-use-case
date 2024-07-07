@@ -46,3 +46,6 @@
 
     Function display(data):
     print(data)
+
+### ERD
+![](erd.png)
